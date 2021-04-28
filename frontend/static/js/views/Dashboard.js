@@ -8,9 +8,9 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>Welcome back, Austen</h1>
+            <h1>Goodbye, Dr. Kim</h1>
             <p>
-                Fugiat voluptate et nisi Lorem cillum anim sit do eiusmod occaecat irure do. Reprehenderit anim fugiat sint exercitation consequat. Sit anim laborum sit amet Lorem adipisicing ullamco duis. Anim in do magna ea pariatur et.
+                Thank you for the work you've done this semester!
             </p>
             <p>
                 <a href="/posts" data-link>View recent posts</a>.
